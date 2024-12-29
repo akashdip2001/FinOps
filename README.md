@@ -1,8 +1,12 @@
 # FinOps certified examination. 
 
+## Finops Certified Engineer
+
 [<img align="right" alt="GitHub Foundations exam logo" width="300" src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/finops-certified-engineer.png">](https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P) 
 
-
+- Total 1 to 50 question for Exam
+- I pass with `45/50 correct` ✅ answers (so may be some ans are wrong there)
+- Last 5 Questions not from the exam.
 
 ### 1. **Why is it important to incorporate cost constraints at the beginning of the development process?**
 
