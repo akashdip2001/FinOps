@@ -2,7 +2,7 @@
 
 ## Finops Certified Engineer
 
-[<img align="right" alt="GitHub Foundations exam logo" width="300" src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/finops-certified-engineer.png">](https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P) 
+[<img align="right" alt="GitHub Foundations exam logo" width="300" src="source/finops-certified-engineer (1).png">](https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P) 
 
 ---
 
@@ -838,3 +838,6 @@ Unit economic metrics analyze the profitability and efficiency of a specific bus
 **Source:** [Unit Economics in FinOps](https://www.finops.org/framework/unit-economics/)  
 
 ---
+
+[<img align="right" alt="GitHub Foundations exam logo" width="300" src="source/certificate-3fwzxtgikea6-1735363272_page-0001 (1).jpg">](https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P) 
+
