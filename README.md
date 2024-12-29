@@ -839,5 +839,5 @@ Unit economic metrics analyze the profitability and efficiency of a specific bus
 
 ---
 
-[<img align="right" alt="GitHub Foundations exam logo" width="300" src="source/certificate-3fwzxtgikea6-1735363272_page-0001 (1).jpg">](https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P) 
+[<img align="centre" alt="GitHub Foundations exam logo" width="100%" src="source/certificate-3fwzxtgikea6-1735363272_page-0001 (1).jpg">](https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P) 
 
